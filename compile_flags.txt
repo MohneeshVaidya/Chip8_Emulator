@@ -1,0 +1,3 @@
+-Iinclude
+-IC:/msys64/ucrt64/include
+-std=c23
